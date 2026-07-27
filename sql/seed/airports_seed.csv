@@ -1,0 +1,47 @@
+iata_code,airport_name,city_name,country_code,latitude,longitude
+TLV,Ben Gurion Airport,Tel Aviv,IL,32.0055,34.8854
+BCN,Josep Tarradellas Barcelona-El Prat Airport,Barcelona,ES,41.2974,2.0833
+MAD,Adolfo Suarez Madrid-Barajas Airport,Madrid,ES,40.4936,-3.5668
+FCO,Leonardo da Vinci-Fiumicino Airport,Rome,IT,41.8003,12.2389
+MXP,Milan Malpensa Airport,Milan,IT,45.6306,8.7281
+ATH,Athens International Airport,Athens,GR,37.9364,23.9445
+SKG,Thessaloniki Airport,Thessaloniki,GR,40.5197,22.9709
+HER,Heraklion International Airport,Heraklion,GR,35.3397,25.1803
+RHO,Rhodes International Airport,Rhodes,GR,36.4054,28.0862
+LCA,Larnaca International Airport,Larnaca,CY,34.8751,33.6249
+IST,Istanbul Airport,Istanbul,TR,41.2753,28.7519
+PRG,Vaclav Havel Airport Prague,Prague,CZ,50.1008,14.2600
+BUD,Budapest Ferenc Liszt International Airport,Budapest,HU,47.4298,19.2611
+BER,Berlin Brandenburg Airport,Berlin,DE,52.3667,13.5033
+MUC,Munich Airport,Munich,DE,48.3538,11.7861
+AMS,Amsterdam Airport Schiphol,Amsterdam,NL,52.3105,4.7683
+LIS,Humberto Delgado Airport,Lisbon,PT,38.7813,-9.1359
+VIE,Vienna International Airport,Vienna,AT,48.1103,16.5697
+WAW,Warsaw Chopin Airport,Warsaw,PL,52.1657,20.9671
+SOF,Sofia Airport,Sofia,BG,42.6967,23.4114
+OTP,Henri Coanda International Airport,Bucharest,RO,44.5711,26.0850
+ZRH,Zurich Airport,Zurich,CH,47.4647,8.5492
+CPH,Copenhagen Airport,Copenhagen,DK,55.6180,12.6560
+TBS,Tbilisi International Airport,Tbilisi,GE,41.6693,44.9547
+BUS,Batumi International Airport,Batumi,GE,41.6103,41.5997
+DXB,Dubai International Airport,Dubai,AE,25.2532,55.3657
+BKK,Suvarnabhumi Airport,Bangkok,TH,13.6900,100.7501
+LHR,Heathrow Airport,London,GB,51.4700,-0.4543
+CDG,Charles de Gaulle Airport,Paris,FR,49.0097,2.5479
+JFK,John F. Kennedy International Airport,New York,US,40.6413,-73.7781
+NRT,Narita International Airport,Tokyo,JP,35.7720,140.3929
+ICN,Incheon International Airport,Seoul,KR,37.4602,126.4407
+BOS,Logan International Airport,Boston,US,42.3656,-71.0096
+SYD,Sydney Kingsford Smith Airport,Sydney,AU,-33.9399,151.1753
+HKT,Phuket International Airport,Phuket,TH,8.1132,98.3169
+GIG,Rio de Janeiro-Galeao International Airport,Rio de Janeiro,BR,-22.8099,-43.2506
+CMB,Bandaranaike International Airport,Colombo,LK,7.1808,79.8841
+CTA,Catania-Fontanarossa Airport,Catania,IT,37.4668,15.0664
+MIA,Miami International Airport,Miami,US,25.7959,-80.2870
+NCE,Nice Cote d'Azur Airport,Nice,FR,43.6584,7.2159
+PFO,Paphos International Airport,Paphos,CY,34.7180,32.4857
+FRA,Frankfurt Airport,Frankfurt,DE,50.0379,8.5622
+GVA,Geneva Airport,Geneva,CH,46.2381,6.1090
+SVO,Sheremetyevo International Airport,Moscow,RU,55.9736,37.4125
+BOM,Chhatrapati Shivaji Maharaj International Airport,Mumbai,IN,19.0887,72.8679
+DEL,Indira Gandhi International Airport,Delhi,IN,28.5562,77.1000
